@@ -10,8 +10,6 @@ new Router(
     (
         <Route>
             <Route path="/" show={<Home />} />
-            <Route path="/privacy" show={<Privacy />} />
-            <Route path="/terms" show={<Terms />} />
             <Route path="*" show={<Error />} />
         </Route>
     ),
