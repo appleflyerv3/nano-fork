@@ -28,15 +28,6 @@ const Windows = function () {
                 <p class="text-center mt-1 select-none">
                     Browse the internet securely and privately.
                 </p>
-                <div class="text-Subtext0 absolute right-0 left-0 bottom-4 flex justify-center gap-2">
-                    <a href="https://github.com/titaniumnetwork-dev/nano">
-                        GitHub
-                    </a>
-                    <span>/</span>
-                    <a href="/privacy">Privacy Policy</a>
-                    <span>/</span>
-                    <a href="/terms">Terms of Service</a>
-                </div>
             </div>
         </div>
     );
